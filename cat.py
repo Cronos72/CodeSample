@@ -5,7 +5,7 @@ import random as generator
 
 url = "https://catfact.ninja/facts?limit=500"
 cat_fact_json_data = []
-TOKEN = 'NjAzNjQ1Nzc1NjY2NDc5MTA0.XTj8Og.CuN46ULBWN9Vg_1M5NDKVKonkkw'
+TOKEN = ''
 facts = ["Cats are one of, if not the most, popular pet in the world.",
       "Cats and humans have been associated for nearly 10000 years.",
       "Cats can be lethal hunters and very sneaky, when they walk their back paws step almost exactly in the same place as the front paws did beforehand, this keeps noise to a minimum and limits visible tracks",
